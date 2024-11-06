@@ -1,0 +1,12 @@
+﻿  Client.cpp
+C:\Users\Chrissy\Desktop\DCNproject\Client\Client\Client.cpp(84,49): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Chrissy\Desktop\DCNproject\Client\Client\Client.cpp(123,49): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Chrissy\Desktop\DCNproject\Client\Client\Client.cpp(169,53): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Chrissy\Desktop\DCNproject\Client\Client\Client.cpp(186,53): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Chrissy\Desktop\DCNproject\Client\Client\Client.cpp(202,53): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Chrissy\Desktop\DCNproject\Client\Client\Client.cpp(219,53): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Chrissy\Desktop\DCNproject\Client\Client\Client.cpp(235,53): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Chrissy\Desktop\DCNproject\Client\Client\Client.cpp(251,53): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Chrissy\Desktop\DCNproject\Client\Client\Client.cpp(259,49): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Chrissy\Desktop\DCNproject\Client\Client\Client.cpp(71,1): warning C4715: “validLogin”: 不是所有的控件路径都返回值
+  Client.vcxproj -> C:\Users\Chrissy\Desktop\DCNproject\Client\x64\Debug\Client.exe
